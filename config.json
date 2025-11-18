@@ -1,6 +1,6 @@
 {
   "Name": "Debate.AI",
-  "Description": "his Web Application leverages React.js, FastAPI backend (Hosted with uvicorn), the google flan extra large model, RAG methodlogy, and cosine similarity to simulate a discusion between 2 bots about a entered topic.",
+  "Description": "This Web Application leverages React.js, FastAPI backend (Hosted with uvicorn), the google flan extra large model, RAG methodlogy, and cosine similarity to simulate a discusion between 2 bots about a entered topic.",
   "Cover_Image": "./image-3.png",
   "Main_ReadMe": "./ReadMe.md"
 }
